@@ -1,4 +1,4 @@
-## Multithreaded-Sortying-Application
+## Multithreaded-Sorting-Application
 CS 421 Assignment Spring '22
 
 Directions:  
